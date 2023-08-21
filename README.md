@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alkan11
-- 👀 I’m interested in AI,Python Developer
-- 🌱 I’m currently learning django, the python library
+- 👀 Full Stack Developer and also AI enthusiast
 - 📫 How to reach me {{simsekalkan11@gmail.com}}
 
 <!---
