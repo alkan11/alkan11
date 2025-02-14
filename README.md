@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alkan11
-- 👀 Full Stack Developer and also AI Enthusiast
+- 👀 BackEnd Developer and also AI Enthusiast
 - 📫 How to reach me {{simsekalkan11@gmail.com}}
 
 <!---
